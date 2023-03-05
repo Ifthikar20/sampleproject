@@ -1,0 +1,34 @@
+{
+  "Sheet1": [
+    {
+      "BusinessNeeds": "Use whenever you need funds. Competitive interest rates.",
+      "Securitydepositrequired": "No",
+      "Minimumyearsinbusiness": "2 Years",
+      "Minimumsalesrevenue": "$100,000 in prior year annual gross sales",
+      "Receivefunds": "When needed",
+      "Interestispaid": "Only on the outstanding balance",
+      "Payments": "Monthly payments based on your balance",
+      "Graduationpathtounsecuredoption": "N/A"
+    },
+    {
+      "BusinessNeeds": "Establish your business credit. Build a path towards unsecured credit options. Use whenever you need funds.",
+      "Securitydepositrequired": "Yes",
+      "Minimumyearsinbusiness": "6 Months",
+      "Minimumsalesrevenue": "$50,000 in annualized revenue",
+      "Receivefunds": "When needed",
+      "Interestispaid": "Only on the outstanding balance",
+      "Payments": "Monthly payments based on your balance",
+      "Graduationpathtounsecuredoption": "Yes"
+    },
+    {
+      "BusinessNeeds": "Receive funds as a one-time lump sum. Competitive interest rates.",
+      "Securitydepositrequired": "No",
+      "Minimumyearsinbusiness": "2 Years",
+      "Minimumsalesrevenue": "$100,000 in prior year annual gross sales",
+      "Receivefunds": "One-time lump sum",
+      "Interestispaid": "Only on the outstanding balance",
+      "Payments": "Fixed equal monthly payments based on your loan amount and term",
+      "Graduationpathtounsecuredoption": "N/A"
+    }
+  ]
+}
