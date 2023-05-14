@@ -10,9 +10,11 @@
   "dependencies": {
     "@vueup/vue-quill": "^1.1.1",
     "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
     "firebase": "^9.21.0",
     "quill-image-resize-module": "^3.0.0",
-    "vue": "^3.2.47",
+    "vue": "^3.3.2",
     "vue-router": "^4.1.6",
     "vue2-editor": "^2.10.3",
     "vuejs-quill": "^1.4.0",

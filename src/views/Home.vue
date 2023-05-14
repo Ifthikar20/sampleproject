@@ -7,6 +7,7 @@
 
 <script>
 import Blogpost from "../components/Blogpost.vue";
+
 export default {
   name: "Home",
   components: {
@@ -24,12 +25,12 @@ export default {
         {
           title: "this is a filter title",
           blogHtml: "this is a filter blog post",
-          blogcoverStories: "beautiful stories...",
+          blogcoverStories: "beautiful-stories",
         },
         {
           title: "this is a filter title 2",
           blogHtml: "this is a filter blog post 2",
-          blogcoverStories: "beautiful stories..2.",
+          blogcoverStories: "designed-for-everyone",
         },
       ],
     };
