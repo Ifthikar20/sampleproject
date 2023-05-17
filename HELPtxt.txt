@@ -25,3 +25,7 @@ m. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Enim sit amet 
 aucibus a pellentesque sit amet porttitor eget dolor. Suspendisse ultrices gravida dictum fusce ut placerat. Co
 mmodo viverra maecenas accumsan lacus vel facilisis volutpat est. Neque viverra justo nec ultrices dui sapien eget. Lect
 us quam id leo in vitae. Ac placerat vestibulum lectus mauris. Habitant morbi tristique senectus et netus et malesuada.
+
+
+
+//////////////last line of the help text//////////////
