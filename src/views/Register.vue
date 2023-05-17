@@ -2,9 +2,9 @@
   <div class="sample-table">
     <table>
       <tr>
-        <th>Company</th>
-        <th>Contact</th>
-        <th>Country</th>
+        <th>Company Name</th>
+        <th>Information</th>
+        <th>Countries</th>
       </tr>
       <tr>
         <td>Alfreds Futterkiste</td>
@@ -12,13 +12,12 @@
         <td>Germany</td>
       </tr>
       <tr>
-        <td>Centro comercial Moctezuma</td>
-        <td>Francisco Chang</td>
+        <td>Texas</td>
+        <td>Alaska</td>
         <td>Mexico</td>
       </tr>
       </table>
   </div>
-
 
 </template>
 <script>
