@@ -1,6 +1,6 @@
 <template>
   <div class="blog-wrapper">
-    <Modal v-if="modalActive"/>
+    <Modal v-if="modalActive" @close-model="CloseModal()"/>
     <div class="blog-content">
       <h2 v-if="post.welcomeScreen">{{ post.title }}</h2>
       <h2 v-else>{{ post.title }}</h2>
@@ -27,6 +27,7 @@ export default {
       email: null,
       modalActive: true,
       modalMessage: "",
+      parentTitle:"welcome"
     };
   },
   components:{
@@ -34,5 +35,15 @@ export default {
   },
   name: "blogpost",
   props: ["post"],
+  created(){
+      this.testMethod();
+  },
+  methods:{
+    testMethod(){
+      //console.log(this.$root.$options);
+
+    }
+
+  }
 };
 </script>

@@ -55,6 +55,7 @@ this.checkScreenSiz;
       this.windowWidth = window.innerWidth;
       if (this.windowWidth <= 750) {
         this.mobile = true;
+     
         //window.alert("we are using an alert here!");
         return;
       } else {
