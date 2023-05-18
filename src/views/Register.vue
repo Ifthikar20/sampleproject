@@ -2,14 +2,20 @@
   <div class="sample-table">
     <table>
       <tr>
-        <th>NEW Company Name</th>
-        <th>NEW Information</th>
-        <th>NEW Countries</th>
+        <th>Company Name(Microsoft)</th>
+        <th>Information(Google)</th>
+        <th>Countries(Apple)</th>
+        //////////////we are testing git stash////////////// //////////////we
+        are testing git stash////////////// //////////////we are testing git
+        stash//////////////
       </tr>
       <tr>
         <td>Alfreds Futterkiste</td>
         <td>Maria Anders</td>
         <td>Germany</td>
+        //////////////we are testing git stash////////////// //////////////we
+        are testing git stash////////////// //////////////we are testing git
+        stash//////////////
       </tr>
        <tr>
         <td>APPLES</td>
@@ -20,12 +26,13 @@
         <td>Texas</td>
         <td>Alaska</td>
         <td>Mexico</td>
+        //////////////we are testing git stash////////////// //////////////we
+        are testing git stash////////////// //////////////we are testing git
+        stash//////////////
       </tr>
-      </table>
+    </table>
   </div>
-
 </template>
 <script>
-export default
-{}
+export default {};
 </script>
